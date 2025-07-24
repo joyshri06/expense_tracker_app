@@ -28,7 +28,7 @@ A professional, lightweight, and interactive web application for tracking daily 
 
 📸 Screenshots 
 
-![App Screenshot](https://drive.google.com/file/d/1NWPKuW4qfC8_V29shq28HSjHRk43n57l/view?usp=sharing) 
+![App Screenshot](https://drive.google.com/file/d/1LH30lUdsjKAwT-UFc9p9RwM4s2z9bqO7/view) 
 > Intuitive interface for adding and reviewing daily expenses
 
  
